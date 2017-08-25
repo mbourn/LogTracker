@@ -8,7 +8,7 @@ Tested and functional in:
  - python3.5
  - python3.6
  
-# Direction
+# Directions
 1. Place both files in the same directory
 2. Supply the required information in the proper variable located at the top of each file
 3. ./logtracker.py -p # This will recursively walk your central logging directory,
